@@ -1,0 +1,6 @@
+framework module Pods_130PlantCare {
+  umbrella header "Pods-130PlantCare-umbrella.h"
+
+  export *
+  module * { export * }
+}
